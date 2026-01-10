@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func anotherFileTest() {
-	fmt.Println("This is the beginning")
+	fmt.Println("this is a function from another file")
 }
