@@ -7,8 +7,10 @@ import (
 )
 
 func main() {
-	//fmt.Println("this is the beginning")
-	//anotherFileTest() <- Function from anotherfile.go
+	fmt.Println("this is the beginning") // Print Statement
+	fmt.Println()
+	anotherFileTest() // Function from anotherfile.go
+	fmt.Println()
 
 	//Loops
 	sum := 0
