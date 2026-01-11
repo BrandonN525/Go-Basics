@@ -1,3 +1,7 @@
+this is the beginning
+
+this is a function from another file
+
 1
 2
 3
